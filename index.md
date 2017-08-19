@@ -1,6 +1,6 @@
 ## Welcome To My Github Page
 
-Hi, my name is Chandra.
+Hi, my name is Chandra. 
 This page will pair all of my blog, website, and facebook account
 
 ### Markdown
