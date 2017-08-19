@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome To My Github Page
 
-Hi, my name is Chandra
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Chandra.
+This page will pair all of my blog, website, and facebook account
 
 ### Markdown
 
